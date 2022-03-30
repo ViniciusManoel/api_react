@@ -35,10 +35,10 @@ Verifique possíveis erros e o mantenha rodando para que o sistema possa consumi
 Precisaremos do `Node` instalado no vosso computador, assim como o `React` e o `Axios`
 
 ### instalação do react e axios:
-npm init
-npx create-react-app proj-name
-cd proj-name
-npm install axios
+`npm init`\
+`npx create-react-app NOME-PROJETO`\
+`cd NOME-PROJETO`\
+`npm install axios`
 
 ### iniciando o react:
-npm start
+`npm start`
